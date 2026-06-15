@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/NonsoAmadi10/mempool-fee/app"
-	mempoolfee "github.com/NonsoAmadi10/mempool-fee/mempool-fee"
+	"github.com/0xciph3r/mempool-fee/app"
+	mempoolfee "github.com/0xciph3r/mempool-fee/mempool-fee"
 )
 
 func main() {

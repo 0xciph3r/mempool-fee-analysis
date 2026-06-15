@@ -7,7 +7,7 @@ import (
 
 	"github.com/btcsuite/btcd/chaincfg/chainhash"
 
-	"github.com/NonsoAmadi10/mempool-fee/utils"
+	"github.com/0xciph3r/mempool-fee/utils"
 	"github.com/btcsuite/btcd/btcutil"
 )
 

@@ -1,7 +1,7 @@
 package handler
 
 import (
-	mempoolfee "github.com/NonsoAmadi10/mempool-fee/mempool-fee"
+	mempoolfee "github.com/0xciph3r/mempool-fee/mempool-fee"
 	"github.com/gofiber/fiber/v2"
 )
 

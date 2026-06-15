@@ -1,4 +1,4 @@
-module github.com/NonsoAmadi10/mempool-fee
+module github.com/0xciph3r/mempool-fee
 
 go 1.19
 

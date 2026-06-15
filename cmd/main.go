@@ -4,7 +4,7 @@ import (
 	"log"
 	"time"
 
-	mempoolfee "github.com/NonsoAmadi10/mempool-fee/mempool-fee"
+	mempoolfee "github.com/0xciph3r/mempool-fee/mempool-fee"
 	"github.com/fatih/color"
 	"github.com/spf13/cobra"
 )
